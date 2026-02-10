@@ -66,10 +66,28 @@ else:
             | llm
             | StrOutputParser()
         )
-        #AI SUMMARY
-        ai_summary = generate_ai_summary(llm)
-        st.write(ai_summary)
+
+        # Check if we already have the summary in memory
+        if "ai_summary" in st.session_state:
+            st.info(st.session_state.ai_summary)
+        else:
+            # Show a placeholder or instructions
+            st.caption("Click below to have AI generate a summary of Ahan's profile.")
+            
+            # THE TRIGGER BUTTON
+            if st.button("✨ Generate AI Summary"):
+                with st.spinner("Analyzing profile..."):
+                    try:
+                        #AI SUMMARY
+                        ai_summary = generate_ai_summary(llm)
+                        st.write(ai_summary)
        
+                        # Store in session state so it stays visible
+                        st.session_state.ai_summary = ai_summary
+                        st.rerun() # Refresh to show the info box
+                    except Exception as e:
+                        st.error("Could not reach the brain. Try again later!")
+        
         # 5. UI
         query = st.text_input("Ask me something:")
         if st.button("Submit") and query:
