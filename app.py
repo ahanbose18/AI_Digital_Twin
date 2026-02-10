@@ -48,6 +48,7 @@ with tabs[0]:
                 try:
                     summary = generate_ai_summary(llm)
                     st.session_state.ai_summary = summary
+                    st.write(summary)
                     st.success("Summary generated! Scroll up to view.")
                 except Exception as e:
                     st.error(f"Error generating summary: {e}")
