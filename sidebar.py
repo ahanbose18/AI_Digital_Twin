@@ -89,5 +89,5 @@ def show_profile():
         st.divider()
         
         st.subheader("Connect")
-        st.markdown('<a href="www.linkedin.com/in/ahan-bose-spjimr" class="social-badge">LinkedIn</a>', unsafe_allow_html=True)
+        st.markdown("[🔗 LinkedIn](https://www.linkedin.com/in/ahan-bose-spjimr)")
         
