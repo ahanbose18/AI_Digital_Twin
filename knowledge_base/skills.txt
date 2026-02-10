@@ -13,3 +13,4 @@ Used In: Inventory cost models, CAPEX visibility, and predictive analytics.
 Skill: Technical Testing (CAN/Hardware)
 Level: Intermediate
 Used In: Continental Automotive - Airbag unit testing and script automation.
+
