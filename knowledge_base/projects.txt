@@ -1,0 +1,11 @@
+Project: Full-stack Cloud Data Pipelines
+Role: Consultant
+Details: Built pipelines for real-time P&L reporting; slashed TAT by 80%.
+
+Project: Enterprise Profitability Planning
+Role: Consultant
+Details: Standardized 50+ master data elements for enterprise-wide planning.
+
+Project: Diplomat Wars
+Role: Founder/Vice President
+Details: Launched intra-collegiate contest for 100+ participants.

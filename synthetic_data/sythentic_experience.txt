@@ -1,0 +1,8 @@
+SYNTHETIC DATA - LEADERSHIP EXPERIENCE
+Role: Global Cross-Functional Task Force Lead
+Organization: Deloitte Digital Transformation Group (Synthetic Extension)
+Experience: Led a team of 10 junior engineers and 4 functional consultants to resolve a critical P&L integration blocker during a high-stakes migration. 
+Actions: 
+- Mentored 5 new hires on cloud data pipeline best practices to accelerate role transitions.
+- Acted as the primary technical representative in "War Room" sessions, communicating risks directly to C-suite stakeholders.
+- Standardized cross-functional communication protocols, leading to a 30% reduction in issue resolution time.

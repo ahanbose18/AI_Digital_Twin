@@ -1,0 +1,19 @@
+# Web Interface (Choose one, Streamlit is common for RAG)
+streamlit 
+
+# RAG Framework
+langchain
+langchain-community
+langchain-huggingface
+
+# Embeddings and Vector Database
+sentence-transformers
+faiss-cpu
+
+# Document Processing
+pypdf
+pandas
+
+# Environment and API Management
+python-dotenv
+huggingface_hub

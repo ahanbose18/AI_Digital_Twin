@@ -1,0 +1,37 @@
+Name: Ahan Bose
+Email: pgp25.ahan@spjimr.org 
+
+Education:
+- PGDM: S.P. Jain Institute of Management & Research (SPJIMR), Mumbai (Class of 2027)
+- Bachelor of Technology (B.Tech): PES University (CGPA: 8.61/10)
+- Class XII: FIITJEE PU College, Karnataka PU Board (87.67%)
+- Class X: The Frank Anthony Public School, ICSE (93.67%)
+
+Skills:
+- Finance & Data Engineering: Full-stack cloud data pipelines, real-time P&L reporting, Power BI, finance planning systems integration
+- Automation & Analytics: Logic-based automation, predictive analytics, cross-cloud financial data flows, CAPEX visibility
+- Technical & Testing: SQL, Python, CAN protocol testing, hardware test script automation, RCA diagnostics
+- Leadership: Stakeholder alignment, mentoring (8+ new hires), budget management (INR 1.14 Lakh), content strategy
+
+Interests:
+- FinTech and Data Architecture
+- Model United Nations (MUN) and Debating
+- Competitive Swimming
+
+Projects:
+- Full-stack Cloud Data Pipelines: Enabled real-time P&L reporting and automated financial data flows at Deloitte USI
+- Enterprise Profitability Planning: Standardized 50+ master data elements for segment-wide planning
+- Hardware Test Automation: Automated 15+ test scripts, reducing testing time by 60%
+- Diplomat Wars: Launched an intra-collegiate contest engaging 100+ participants 
+
+Career Goals:
+To leverage expertise in finance data engineering and cloud automation to lead large-scale digital transformations and improve enterprise forecast precision and operational agility.
+
+Achievements:
+- Professional: Promoted to Consultant at Deloitte USI; Ranked in top 1% of 1000+ practitioners; Outstanding Performance Award
+- Academic: 98.11 percentile in CAT 2024; MRD and CNR Rao Merit Scholarships 
+- Extra-Curricular: Best Delegate at VIT Model UN; 3rd place in 50m and 100m breaststroke at WB District Swimming
+Certifications:
+- CAT 2024 (98.11%ile)
+- Deloitte USI Consultant Promotion
+- MRD Merit Scholarship (ECE Department)

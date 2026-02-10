@@ -1,0 +1,15 @@
+Skill: Data Engineering & Cloud Pipelines
+Level: Advanced
+Used In: Deloitte USI - P&L reporting and financial data flows.
+
+Skill: Automation (Logic-based)
+Level: Expert
+Used In: Automating 10K+ folders and cross-cloud financial data.
+
+Skill: Financial Analytics
+Level: Advanced
+Used In: Inventory cost models, CAPEX visibility, and predictive analytics.
+
+Skill: Technical Testing (CAN/Hardware)
+Level: Intermediate
+Used In: Continental Automotive - Airbag unit testing and script automation.

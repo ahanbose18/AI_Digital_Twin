@@ -1,0 +1,35 @@
+Professional Case Study 1: Real-Time Financial Digital Twin for Enterprise P&L
+
+Context
+A global professional services firm faced delays in financial visibility due to fragmented finance systems and batch-based reporting. Leadership required a near–real-time view of profitability across service lines to improve forecasting accuracy and decision-making.
+
+Approach
+As part of the finance data engineering team, I designed a full-stack cloud data pipeline that ingested transactional, budgeting, and forecast data from multiple source systems. The solution standardized financial master data and enabled cross-cloud data synchronization. Automated validation checks and reconciliation logic ensured data accuracy before downstream consumption.
+
+Outcome
+The digital twin enabled real-time P&L reporting with significantly reduced manual intervention. Finance leaders gained faster insights into margin movements and cost drivers, improving forecast precision and enabling proactive cost optimization. The solution became a reference architecture for similar implementations across other business units.
+
+Professional Case Study 2: Enterprise Profitability Planning & Forecast Standardization
+
+Context
+A large enterprise struggled with inconsistent profitability planning due to non-standard master data definitions across regions and business segments. This led to forecast mismatches and prolonged planning cycles.
+
+Approach
+I supported the design and implementation of a centralized profitability planning framework. Over 50 master data elements—covering cost centers, revenue categories, and allocation drivers—were standardized and integrated into the finance planning system. Automated data quality rules were embedded to flag inconsistencies at source.
+
+Outcome
+The standardized planning model reduced forecast variance and shortened planning cycles. Stakeholders gained confidence in scenario analysis outputs, enabling faster strategic decisions during quarterly reviews. The initiative materially improved enterprise-wide financial governance.
+
+Synthetic Project Descriptions
+
+Project 1: Cloud-Based Financial Digital Twin Architecture
+
+Designed a scalable cloud data architecture to mirror enterprise financial operations in near real time. The solution integrated actuals, forecasts, and budgets to simulate financial outcomes under different business scenarios, supporting leadership decision-making and financial stress testing.
+
+Project 2: Automated CAPEX Visibility & Forecast Analytics
+
+Built an automated CAPEX tracking and analytics layer using SQL and Python to consolidate spend data across projects. Implemented predictive analytics to flag potential overruns, improving capital allocation discipline and reducing forecast surprises.
+
+Project 3: Cross-Cloud Financial Data Orchestration
+
+Developed logic-based automation to orchestrate financial data flows across multiple cloud environments. The system ensured consistency between finance planning tools and reporting dashboards, reducing manual reconciliations and improving reporting reliability.
